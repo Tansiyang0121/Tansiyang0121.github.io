@@ -1,2 +1,4 @@
+http://example.com/2023/01/31/1-JS%E5%9F%BA%E7%A1%80/
 http://example.com/2023/01/31/hello-world/
 http://example.com/
+http://example.com/tags/JS/
